@@ -5,9 +5,9 @@
 
 # What are the components of flask:
 # ----1) Werkzeug---- (Enables debugging / Error handling and it also  ---Provides Web Server Getway interface)
-#-----2) Jinja2 ----(It )
-# ----3) Markersafe  -----()
- # --4) Click
+#-----2) Jinja2 ----(It is used to create simple websites)
+# ----3) Markerupsafe  -----()
+ # --4) Click()
 
 
 
